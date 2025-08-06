@@ -30,9 +30,9 @@
 
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats-green-seven-65.vercel.app/api?username=jandoh07&show_icons=true&count_private=true&theme=github_dark&cache_seconds=30" alt="Joshua's GitHub stats" />
-  <img src="https://github-readme-stats-green-seven-65.vercel.app/api/top-langs/?username=jandoh07&layout=compact&count_private=true&theme=github_dark&cache_seconds=30&exclude_repo=github-readme-stats&langs_count=10" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jandoh07&theme=github-dark" alt="GitHub Streak" /> -->
+<!--   <img src="https://github-readme-stats-green-seven-65.vercel.app/api?username=jandoh07&show_icons=true&count_private=true&theme=github_dark&cache_seconds=30" alt="Joshua's GitHub stats" /> -->
+  <img src="https://github-readme-streak-stats-weld-nu-97.vercel.app/?user=jandoh07&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-green-seven-65.vercel.app/api/top-langs/?username=jandoh07&layout=compact&count_private=true&theme=github_dark&cache_seconds=30&exclude_repo=github-readme-stats&langs_count=10" width="30.5%"/>
 </p>
 
 ---
